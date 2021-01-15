@@ -1,0 +1,46 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\DATA\Altium\DBLibraries\Nichicon\Nichicon.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=Nichicon.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=CapacitorPolEl_CVseries
+[Table1]
+SchemaName=
+TableName=CapacitorPolEl_CVseries
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=CapacitorPolEl_CVseries.ID|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=CapacitorPolEl_CVseries.PartNumber|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=CapacitorPolEl_CVseries.Library Ref|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=CapacitorPolEl_CVseries.Library Path|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=CapacitorPolEl_CVseries.Footprint Ref|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=CapacitorPolEl_CVseries.Footprint Path|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=CapacitorPolEl_CVseries.Description|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=CapacitorPolEl_CVseries.RatedCapacitance|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=RatedCapacitance|FieldType=1|ParameterName=Value|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=CapacitorPolEl_CVseries.Comment|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
