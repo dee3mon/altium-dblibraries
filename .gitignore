@@ -1,6 +1,9 @@
 **/History
 *.cmp
 *.err
+*.xls
+*.xlsx
 **/__Previews
 *.CMP
 *.ERR
+**/SRC
