@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\DATA\Altium\Ma
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -25,10 +25,10 @@ SchemaName=
 TableName=CapacitorPolEl_CVseries
 Enabled=True
 UserWhere=0
-UserWhereText=
+UserWhereText=[PartNumber] = '{PartNumber}'
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=34|PartNumber0=103|Library Ref0=82|Library Path0=180|Footprint Ref0=176|Footprint Path0=182|Description0=305|RatedCapacitance0=115|Comment0=143|Manufacturer0=93|CaseSize0=67|ComponentLink1Description0=170|ComponentLink1URL0=327|RatedVoltage0=93|SurgeVoltage0=93|TanD0=49|LeakageCurrent0=104|ESR0=151|RatedRipple0=163
+BrowserOrder_Visible=ID0=34|PartNumber0=103|Library Ref0=82|Library Path0=180|Footprint Ref0=176|Footprint Path0=182|Description0=305|RatedCapacitance0=115|Comment0=143|RatedVoltage0=93|Manufacturer0=93|CaseSize0=67|ComponentLink1Description0=170|ComponentLink1URL0=327|SurgeVoltage0=93|TanD0=49|LeakageCurrent0=104|ESR0=151|RatedRipple0=163
 [FieldMap1]
 Options=FieldName=CapacitorPolEl_CVseries.ID|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -47,3 +47,5 @@ Options=FieldName=CapacitorPolEl_CVseries.Description|TableNameOnly=CapacitorPol
 Options=FieldName=CapacitorPolEl_CVseries.RatedCapacitance|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=RatedCapacitance|FieldType=1|ParameterName=Value|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
 Options=FieldName=CapacitorPolEl_CVseries.Comment|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=CapacitorPolEl_CVseries.RatedVoltage|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=RatedVoltage|FieldType=1|ParameterName=VDC|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
