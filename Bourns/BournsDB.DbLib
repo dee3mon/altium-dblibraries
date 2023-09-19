@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\DATA\Altium\DBLibraries\Bourns\Bourns_TC33.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\DATA\Altium\ManagedProjects\altium-dblibraries\Bourns\Bourns_TC33.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=[PartNumber] = '{PartNumber}'
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=34|Description0=277|Footprint Ref0=92|Library Ref0=77|ValueResistance0=106|PartNumber0=84|Comment0=143|Library Path0=109|Footprint Path0=127|Manufacturer0=93|PackageStyle0=89|RotationStyle0=117|ComponentLink1Description0=170|ComponentLink1URL0=1334|ComponentLink2Description0=170|ComponentLink2URL0=416
+BrowserOrder_Visible=ID0=34|Description0=280|Footprint Ref0=92|Library Ref0=77|ValueResistance0=106|PartNumber0=84|Comment0=143|Library Path0=110|Footprint Path0=127|Manufacturer0=93|PackageStyle0=89|RotationStyle0=117|ComponentLink1Description0=170|ComponentLink1URL0=1336|ComponentLink2Description0=170|ComponentLink2URL0=416
 [FieldMap1]
 Options=FieldName=Bourns_TC33.ID|TableNameOnly=Bourns_TC33|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=1
 [FieldMap2]
