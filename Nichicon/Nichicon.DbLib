@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\DATA\Altium\ManagedProjects\altium-dblibraries\Nichicon\Nichicon.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\DATA\Altium\ManagedProjects\altium-dblibraries\Nichicon\Nichicon.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,9 +26,6 @@ TableName=CapacitorPolEl_CVseries
 Enabled=True
 UserWhere=0
 UserWhereText=[PartNumber] = '{PartNumber}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=34|PartNumber0=103|Library Ref0=82|Library Path0=180|Footprint Ref0=176|Footprint Path0=182|Description0=305|RatedCapacitance0=115|Comment0=143|RatedVoltage0=93|Manufacturer0=93|CaseSize0=67|ComponentLink1Description0=170|ComponentLink1URL0=327|SurgeVoltage0=93|TanD0=49|LeakageCurrent0=104|ESR0=151|RatedRipple0=163|Tolerance0=72
 [FieldMap1]
 Options=FieldName=CapacitorPolEl_CVseries.ID|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -49,3 +46,9 @@ Options=FieldName=CapacitorPolEl_CVseries.RatedCapacitance|TableNameOnly=Capacit
 Options=FieldName=CapacitorPolEl_CVseries.Comment|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
 Options=FieldName=CapacitorPolEl_CVseries.RatedVoltage|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=RatedVoltage|FieldType=1|ParameterName=VDC|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=CapacitorPolEl_CVseries.CaseSize|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=CaseSize|FieldType=1|ParameterName=Package|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=CapacitorPolEl_CVseries.RatedRipple|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=RatedRipple|FieldType=1|ParameterName=IRipple|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=CapacitorPolEl_CVseries.LeakageCurrent|TableNameOnly=CapacitorPolEl_CVseries|FieldNameOnly=LeakageCurrent|FieldType=1|ParameterName=ILeakage|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
