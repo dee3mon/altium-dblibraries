@@ -1,0 +1,74 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\DATA\Altium\ManagedProjects\altium-dblibraries\Coilcraft\Coilcraft.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=Coilcraft.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Coilcraft LPS
+[Table1]
+SchemaName=
+TableName=Coilcraft LPS
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Код0=42|PartNumber0=94|ValueInductance0=109|DCR0=72|SRF0=55|ISAT0=45|IRMS0=49|Tolerance0=73|Manufacturer0=93|Package0=65|ComponentLink1URL0=501|ComponentLink1Description0=170|ComponentLink2URL0=477|ComponentLink2Description0=170|Description0=140|Comment0=143|Footprint Ref0=101|Footprint Path0=129|Library Ref0=77|Library Path0=127
+[Table2]
+SchemaName=
+TableName=~TMPCLP499681
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=34|PartNumber0=123|ValueInductance0=109|DCR0=66|DCRmax0=69|IDC0=41|IDCmax0=61|ISAT0=45|ISATmax0=65|Tolerance0=73|Manufacturer0=93|Package0=65|ComponentLink1URL0=231|ComponentLink1Description0=170|Description0=190|Comment0=143|Footprint Ref0=112|Footprint Path0=119|Library Ref0=77|Library Path0=117
+[FieldMap1]
+Options=FieldName=Coilcraft LPS.Код|TableNameOnly=Coilcraft LPS|FieldNameOnly=Код|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Coilcraft LPS.PartNumber|TableNameOnly=Coilcraft LPS|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Coilcraft LPS.ValueInductance|TableNameOnly=Coilcraft LPS|FieldNameOnly=ValueInductance|FieldType=1|ParameterName=Value|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Coilcraft LPS.Description|TableNameOnly=Coilcraft LPS|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Coilcraft LPS.Comment|TableNameOnly=Coilcraft LPS|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Coilcraft LPS.Footprint Ref|TableNameOnly=Coilcraft LPS|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Coilcraft LPS.Footprint Path|TableNameOnly=Coilcraft LPS|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Coilcraft LPS.Library Ref|TableNameOnly=Coilcraft LPS|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Coilcraft LPS.Library Path|TableNameOnly=Coilcraft LPS|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=~TMPCLP499681.ID|TableNameOnly=~TMPCLP499681|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=~TMPCLP499681.PartNumber|TableNameOnly=~TMPCLP499681|FieldNameOnly=PartNumber|FieldType=0|ParameterName=PartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=~TMPCLP499681.Description|TableNameOnly=~TMPCLP499681|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=~TMPCLP499681.Comment|TableNameOnly=~TMPCLP499681|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=~TMPCLP499681.Footprint Ref|TableNameOnly=~TMPCLP499681|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=~TMPCLP499681.Footprint Path|TableNameOnly=~TMPCLP499681|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=~TMPCLP499681.Library Ref|TableNameOnly=~TMPCLP499681|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=~TMPCLP499681.Library Path|TableNameOnly=~TMPCLP499681|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
