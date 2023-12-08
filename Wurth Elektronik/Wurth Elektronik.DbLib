@@ -26,6 +26,9 @@ TableName=WE-SMT Power Inductors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=34|PartNumber0=84|ValueInductance0=109|Footprint Ref0=92|Footprint Path0=121|Library Ref0=77|Library Path0=120|Comment0=145|Description0=150|CaseSize_DxH0=93|IRMS0=49|ISAT0=45|DCR0=57|DCRmax0=65|SRF0=54|ComponentLink1Description0=170|ComponentLink1URL0=360|Manufacturer0=96
 [FieldMap1]
 Options=FieldName=WE-SMT Power Inductors.ID|TableNameOnly=WE-SMT Power Inductors|FieldNameOnly=ID|FieldType=1|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
